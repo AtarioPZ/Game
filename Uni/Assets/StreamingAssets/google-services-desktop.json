@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "659774114098",
+    "project_id": "project-code-f9567",
+    "storage_bucket": "project-code-f9567.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659774114098:android:67642160391fdec259ef2b",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.CodeRun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659774114098-2hk737gve7qdqmfdkeg58gbc75fagof2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjjPqr_UQmTkhR_oc9uBkOq_Hl1jUhCwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659774114098-2hk737gve7qdqmfdkeg58gbc75fagof2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
